@@ -1,0 +1,5 @@
+# Ruby on Rails: DLOE App
+
+Fundamentals of a social media type app
+
+Developed by Derek Loe
